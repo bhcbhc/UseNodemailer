@@ -1,0 +1,23 @@
+{
+  "name": "usenodemailer",
+  "version": "1.0.0",
+  "description": "use nodemailer to send an email",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "send": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhcbhc/UseNodemailer.git"
+  },
+  "author": "bhcbhc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhcbhc/UseNodemailer/issues"
+  },
+  "homepage": "https://github.com/bhcbhc/UseNodemailer#readme",
+  "dependencies": {
+    "nodemailer": "^4.5.0"
+  }
+}
